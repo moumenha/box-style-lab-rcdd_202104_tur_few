@@ -52,15 +52,15 @@ h4 {
 .small {
   width: 100%;
   height: 100%;
-  border-style: solid;
+  border: 1px solid;
 }
 
 .med {
   width: 203.5%;
-    border-style: solid;
+    border: 1px solid;
 }
 
 .large {
   width: 303%;
-    border-style: solid;
+    border: 1px solid;
 }
